@@ -1,0 +1,22 @@
+All Pages: 
+1. Make a generic ruleset that styles the full list of elements and pages to look nearly identical, changing only the content on each page. 
+2. Change around the elements as necessary to make them line up to the generic ruleset, allowing for dry code
+3. 
+
+Index.html:
+1. Get image into the top right hand corner of the page, sized to match the info in the line below
+2. Get the title, subtitle, and address information on the left side of the image
+3. Change the font Family to a serif that has a link to the google stylesheets 
+4. Set the font weight to between 50% and 75% of the font weight of the root elements
+5. Organize the experience and skills list into 2 columns to allow for more condensed information
+6. Fancify the bullets to make them a bit more modern/unique than the typical bullets
+7. Get a cursive font for the date text, and add a class to the elements that allows to show that text in a single style rule in the CSS file
+8. Include an image of the logo for each company for which I've worked next to the actual text for the position. 
+9.
+
+About.html: 
+1. Get the images for each hobby into a 3 x 3 grid
+2. Get the text for each hobby to hover over the center of each image for the hobby
+3. Center the 3x3 grid in the page
+4. 
+
